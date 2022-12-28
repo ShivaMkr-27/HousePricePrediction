@@ -1,48 +1,48 @@
-# Project Name
-> Outline a brief description of your project.
+# House Price Prediction
+-----------------------------------------------
+> Author : Shiva Kumar Bandaru   
+> E-mail : shivamkr.b271999@gmail.com  
+
+------------------------------------------------------------------
+
+## Problem Description
+
+ To build a regression model using regularisation in order to predict the actual value of the prospective properties and decide whether to invest in them or not.
 
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Designing a model for shared bikes with the available independent variables.
+-  It will be used by the management to understand how exactly the demands vary with different features.
+-  They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations.
+- The data set used 'day.csv'
+- Performing EDA and Data Visualization.
+- Splitting the data into training anf test datasets
+- Model Building.
+- Model Evaluation.
+- Linear Regression
+- Lasso Regression
+- Ridge Regression
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- library - Numpy
+- library - Pandas
+- library - Matplotlib
+- library - Seaborn
+- library - Sklearn
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@ShivaMkr-27] - feel free to contact me!
 
 
 <!-- Optional -->

@@ -20,7 +20,7 @@
 - Designing a model for shared bikes with the available independent variables.
 -  It will be used by the management to understand how exactly the demands vary with different features.
 -  They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations.
-- The data set used 'day.csv'
+- The data set used 'train.csv'
 - Performing EDA and Data Visualization.
 - Splitting the data into training anf test datasets
 - Model Building.
